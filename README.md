@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Saransh Koirala, a passionate developer who lo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **TypeScritp...**
+- 🌱 I’m currently learning **TypeScript...**
 - 💬 Ask me about **JavaScript, Node.js, React, or any other technology you are familiar with**
 - 📫 How to reach me: **upwhats498@gmail.com**
 - ⚡ Fun fact: **Hala Madrid⚽**
