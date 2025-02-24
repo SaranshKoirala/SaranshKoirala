@@ -2,13 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/SaranshKoirala?label=Follow&style=social)](https://github.com/SaranshKoirala)
 [![Linkedin: saranshkoirala](https://img.shields.io/badge/-saranshkoirala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saranshkoirala/)](https://www.linkedin.com/in/saranshkoirala/)
-[![GitHub SaranshKoirala](https://img.shields.io/github/stars/SaranshKoirala?label=stars&style=social)](https://github.com/SaranshKoirala)
+[![GitHub Stars](https://img.shields.io/github/stars/SaranshKoirala?label=stars&style=social)](https://github.com/SaranshKoirala)
 
 Welcome to my GitHub profile! I'm Saransh Koirala, a passionate developer who loves coding and contributing to open-source projects.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **TypeScript...**
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, Node.js, React, or any other technology you are familiar with**
 - 📫 How to reach me: **upwhats498@gmail.com**
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Saransh Koirala, a passionate developer who lo
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
- - **Databases:**
+- **Databases:**
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - **Tools:**
@@ -46,6 +46,6 @@ Welcome to my GitHub profile! I'm Saransh Koirala, a passionate developer who lo
 ## 📫 How to reach me
 
 - LinkedIn: [linkedin.com/in/saranshkoirala](https://www.linkedin.com/in/saranshkoirala/)
-- Email: [upwhats498@gmail.com]
+- Email: [upwhats498@gmail.com](mailto:upwhats498@gmail.com)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to connect.
